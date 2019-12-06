@@ -1,2 +1,4 @@
 # hello-world
-Hello word! First repository 
+First repository.
+
+CS student at UCI. Dipping my toes and trying to figure out Github. 
